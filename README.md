@@ -31,8 +31,8 @@ From there, the script will attempt to parse out the streams and download them. 
 
 # Author
 
-##benelhaj_younes
+## benelhaj_younes
 
-#Inspired From :
+# Inspired From :
 
 ## The Linux Choice
